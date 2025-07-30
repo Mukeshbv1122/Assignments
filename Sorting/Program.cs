@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LinearDataStructureDemos
 {
-    enum Sort { Bubble = 1, Selection, Shell, Insertion };
+    enum Sort { Bubble = 1, Selection = 2, Shell = 3, Insertion = 4 };
 
     internal class SortingDemos
     {
